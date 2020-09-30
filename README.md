@@ -1,6 +1,7 @@
 ## SEN12-FLOOD Dataset
 
-This dataset is composed of optical Sentinel 2 and SAR Sentinel 1 image sequences for the the detection of flooded areas
+This dataset is composed of optical Sentinel 2 and SAR Sentinel 1 image sequences for the the detection of flooded areas.
+It is available on the [IEEE dataport](https://ieee-dataport.org/open-access/sen12-flood-sar-and-multispectral-dataset-flood-detection).
 
 
 ### Overview
